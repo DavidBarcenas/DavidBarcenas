@@ -7,61 +7,57 @@
 ## My Tech Stack
 > Tools, languages, and other things that I like to work with.
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="25%">
-      <code>Angular</code>
+    <td align="center" width="96">
+      <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
     </td>
-    <td align="center" width="25%">
-      <code>React</code>
+    <td align="center" width="96">
+      <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
     </td>
-    <td align="center" width="25%">
-      <code>Nextjs</code>
+    <td align="center" width="96">
+      <img src="./img/rxjs.svg" width="48" height="48" alt="RXJS" />
     </td>
-    <td align="center" width="25%">
-      <code>React Native</code> 
+    <td align="center" width="120">
+      <img src="./img/react.svg" width="48" height="48" alt="React" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/next.svg" width="48" height="48" alt="Nectjs" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/react-native.svg" width="48" height="48" alt="React Native" />
+    </td>
+    <td align="center" width="96">
+      <img src="./img/flutter.svg" width="48" height="48" alt="Flutter" />
     </td>
     </tr>
     <tr>
-    <td align="center" width="25%">
-      <code>Fluter</code>
+    <td align="center" width="96">
+      <img src="./img/nestjs.svg" width="48" height="48" alt="Nestjs" />
     </td>
-    <td align="center" width="25%">
-      <code>Phyton</code>
+    <td align="center" width="96">
+      <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
     </td>
-    <td align="center" width="25%">
-      <code>Django</code>
+    <td align="center" width="96">
+      <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
     </td>
-    <td align="center" width="25%">
-      <code>Firebase</code>
+    <td align="center" width="96">
+      <img src="./img/mongo.svg" width="48" height="48" alt="Mongo" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <code>Mongo</code>
+    <td align="center" width="96">
+      <img src="./img/python.svg" width="48" height="48" alt="Python" />
     </td>
-    <td align="center" width="25%">
-      <code>TypeScript</code>
+    <td align="center" width="96">
+      <img src="./img/django.svg" width="48" height="48" alt="Django" />
     </td>
-    <td align="center" width="25%">
-      <code>JavaScript</code>
+    <td align="center" width="96">
+      <img src="./img/jest.svg" width="48" height="48" alt="Jest" />
     </td>
-    <td align="center" width="25%">
-      <code>Rxjs</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <code>Nestjs</code>
-    </td>
-    <td align="center" width="25%">
-      <code>Redux</code>
-    </td>
-    <td align="center" width="25%">
-      <code>Jest</code>
-    </td>
-    <td align="center" width="25%">
-      <code>Docker</code>
+    <td align="center" width="96">
+      <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
     </td>
   </tr>
 </table>
