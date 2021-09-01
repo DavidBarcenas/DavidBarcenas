@@ -6,6 +6,9 @@
 - 👯 I’m looking to collaborate with people from all over the world.
 
 
+## My Tech Stack
+> Tools, languages, and other things that I like to work with.
+
 <img 
   width="40%" 
   align="right" 
@@ -13,12 +16,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBarcenas" 
 />
 
-
 <table width="60%">
-  <caption>
-    <h2 align="left">My Tech Stack</h2>
-    <p align="left">Tools, languages, and other things that I like to work with.</p>
-  </caption>
   <tr>
     <td align="center" width="25%">
       <a href="#" title="Angular">
