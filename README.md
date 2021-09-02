@@ -1,5 +1,9 @@
 # 👋 Hi there! I'm Davee
 
+I am a full stack developer. I have more than 5 years of experience working mainly with front end. Angular and React have been my daily bread for all this time.
+
+In my own projects I like to use the new technologies that have come out to keep me updated, practice clean code techniques, design patterns and everything that makes me a better professional.
+
 - 🔭 I’m currently working on my own projects.
 - 🌱 I’m currently learning about the Python world!
 - 👯 I’m looking to collaborate with people from all over the world.
@@ -49,6 +53,11 @@
         <img src="./img/flutter.svg" width="48" height="48" alt="Flutter" />
       </a>
     </td>
+    <td align="center" width="100">
+      <a href="#" title="Dart">
+        <img src="./img/dart.svg" width="48" height="48" alt="Dart" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="100">
@@ -69,6 +78,11 @@
     <td align="center" width="100">
       <a href="#" title="Mongo">
         <img src="./img/mongo.svg" width="48" height="48" alt="Mongo" />
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="#" title="Nodejs">
+        <img src="./img/nodejs.svg" width="48" height="48" alt="Nodejs" />
       </a>
     </td>
     <td align="center" width="100">
