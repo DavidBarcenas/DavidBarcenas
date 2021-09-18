@@ -14,94 +14,94 @@ In my own projects I like to use the new technologies that have come out to keep
 <table width="100%">
   <tr>
     <td align="center" width="100">
-      <a href="#" title="Angular">
+      <a href="https://angular.io/" title="Angular" target="_blank">
         <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="TypeScript">
+      <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank">
         <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="RXJS">
-        <img src="./img/rxjs.svg" width="48" height="48" alt="RXJS" />
+      <a href="https://rxjs.dev/" title="RxJS" target="_blank">
+        <img src="./img/rxjs.svg" width="48" height="48" alt="RxJS" />
       </a>
     </td>
     <td align="center" width="120">
-      <a href="#" title="React">
+      <a href="https://en.reactjs.org/" title="React" target="_blank">
         <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Nextjs">
-        <img src="./img/next.svg" width="48" height="48" alt="Nextjs" />
+      <a href="https://nextjs.org/" title="Next.js" target="_blank">
+        <img src="./img/next.svg" width="48" height="48" alt="Next.js" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="JavaScript">
+      <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" title="JavaScript" target="_blank">
         <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
         </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="React Native">
+      <a href="https://reactnative.dev/" title="React Native" target="_blank">
         <img src="./img/react-native.svg" width="48" height="48" alt="React Native" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Flutter">
+      <a href="https://flutter.dev/" title="Flutter" target="_blank">
         <img src="./img/flutter.svg" width="48" height="48" alt="Flutter" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Dart">
+      <a href="https://dart.dev/" title="Dart" target="_blank">
         <img src="./img/dart.svg" width="48" height="48" alt="Dart" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <a href="#" title="Nestjs">
-        <img src="./img/nestjs.svg" width="48" height="48" alt="Nestjs" />
+      <a href="https://nestjs.com/" title="NestJS" target="_blank">
+        <img src="./img/nestjs.svg" width="48" height="48" alt="NestJS" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Redux">
+      <a href="https://es.redux.js.org/" title="Redux" target="_blank">
         <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Firebase">
+      <a href="https://firebase.google.com/" title="Firebase" target="_blank">
         <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Mongo">
-        <img src="./img/mongo.svg" width="48" height="48" alt="Mongo" />
+      <a href="https://www.mongodb.com/" title="MongoDB" target="_blank">
+        <img src="./img/mongo.svg" width="48" height="48" alt="MongoDB" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Nodejs">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="Nodejs" />
+      <a href="https://nodejs.org/" title="Node.js" target="_blank">
+        <img src="./img/nodejs.svg" width="48" height="48" alt="Node.js" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Python">
+      <a href="https://www.python.org/" title="Python" target="_blank">
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Django">
+      <a href="https://www.djangoproject.com/" title="Django" target="_blank">
         <img src="./img/django.svg" width="48" height="48" alt="Django" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Jest">
+      <a href="https://jestjs.io/" title="Jest" target="_blank">
         <img src="./img/jest.svg" width="48" height="48" alt="Jest" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="#" title="Docker">
+      <a href="https://www.docker.com/" title="Docker" target="_blank">
         <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
     </td>
