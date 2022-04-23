@@ -1,11 +1,11 @@
-# 👋 Hi there! I'm Davee
+# 👋 Hi there! I'm Dave
 
 I am a full stack developer. I have more than 5 years of experience working mainly with front end. Angular and React have been my daily bread for all this time.
 
 In my own projects I like to use the new technologies that have come out to keep me updated, practice clean code techniques, design patterns and everything that makes me a better professional.
 - 🇲🇽 I'm from Mexico City.
 - 🔭 I’m currently working on my own projects.
-- 🌱 I’m currently learning about the Python world!
+- 🌱 I'm currently learning how to create native android apps with kotlin
 - 👯 I seek to collaborate with people who want to share knowledge and learn.
 
 ## My Tech Stack
