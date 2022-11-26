@@ -1,14 +1,15 @@
 # 👋 Hi there! I'm Dave
 
-I am a full stack developer. I have more than 5 years of experience working mainly with front end. Angular and React have been my daily bread for all this time.
+I am a full stack developer. I have more than 5 years of experience working mainly with front end. Especially talking about Angular, which has been my daily bread for all this time.
 
-In my own projects I like to use the new technologies that have come out to keep me updated, practice clean code techniques, design patterns and everything that makes me a better professional.
-- 🇲🇽 I'm from Mexico City.
-- 🔭 I’m currently working on my own projects.
-- 🌱 I'm currently learning how to create native android apps with kotlin
-- 👯 I seek to collaborate with people who want to share knowledge and learn.
+In my projects I like to use the new technologies that have been emerging to keep me updated, practice clean code techniques, design patterns and everything that makes me a better professional.
+
+- 🇲🇽 Proudly Mexican! Always looking for personal and professional growth.
+- 🔭 I like working with people whose premise is respect, loyalty and commitment.
+- 🌱 I like to know a little bit of everything, but I find it quite good to specialize in something.
 
 ## My Tech Stack
+
 > Tools, languages, and other things that I like to work with.
 
 <table width="100%">
@@ -34,8 +35,8 @@ In my own projects I like to use the new technologies that have come out to keep
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://nextjs.org/" title="Next.js" target="_blank">
-        <img src="./img/next.svg" width="48" height="48" alt="Next.js" />
+      <a href="https://nx.dev/" title="NX" target="_blank">
+        <img src="./img/nx.svg" width="48" height="48" alt="NX" />
       </a>
     </td>
     <td align="center" width="100">
@@ -91,8 +92,8 @@ In my own projects I like to use the new technologies that have come out to keep
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://www.djangoproject.com/" title="Django" target="_blank">
-        <img src="./img/django.svg" width="48" height="48" alt="Django" />
+      <a href="https://spring.io/projects/spring-framework" title="Spring Framework" target="_blank">
+        <img src="./img/spring.svg" width="48" height="48" alt="Spring Framework" />
       </a>
     </td>
     <td align="center" width="100">
