@@ -1,14 +1,14 @@
 # 👋 Hi there! I'm Dave
 
-I am a full stack developer. I have more than 5 years of experience working mainly with front end. Especially talking about Angular, which has been my daily bread for all this time.
+<img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=DavidBarcenas&hide=issues,contribs&show_icons=true&card_width=250&theme=dark#gh-dark-mode-only">
 
-In my projects I like to use the new technologies that have been emerging to keep me updated, practice clean code techniques, design patterns and everything that makes me a better professional.
+<img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=DavidBarcenas&show_icons=true&card_width=250&theme=default#gh-light-mode-only">
 
-- 🇲🇽 Proudly Mexican! Always looking for personal and professional growth.
-- 🔭 I like working with people whose premise is respect, loyalty and commitment.
-- 🌱 I like to know a little bit of everything, but I find it quite good to specialize in something.
+<p style="margin-top: 1rem;">🇲🇽 Proudly Mexican! Always looking for personal and professional growth.</p>
+<p>🔭 I like working with people whose premise is respect, loyalty and commitment.</p>
+<p>🌱 I like to know a little bit of everything, but I find it quite good to specialize in something.</p>
 
-## My Tech Stack
+<h2 style="margin: 1.5rem 0;">My Tech Stack</h2>
 
 > Tools, languages, and other things that I like to work with.
 
