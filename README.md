@@ -2,7 +2,7 @@
 
 <img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=DavidBarcenas&hide=issues,contribs&show_icons=true&card_width=250&theme=dark#gh-dark-mode-only">
 
-<img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=DavidBarcenas&show_icons=true&card_width=250&theme=default#gh-light-mode-only">
+<img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=DavidBarcenas&hide=issues,contribs&show_icons=true&card_width=250&theme=default#gh-light-mode-only">
 
 <p style="margin-top: 1rem;">🇲🇽 Proudly Mexican! Always looking for personal and professional growth.</p>
 <p>🔭 I like working with people whose premise is respect, loyalty and commitment.</p>
