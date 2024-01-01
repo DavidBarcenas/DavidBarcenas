@@ -14,7 +14,7 @@
   <tr>
     <td align="center" width="100">
       <a href="https://angular.io/" title="Angular" target="_blank">
-        <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
+        <img src="./img/angular.gif" width="50" height="50" alt="Angular" />
       </a>
     </td>
     <td align="center" width="100">
